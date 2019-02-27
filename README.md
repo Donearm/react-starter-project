@@ -9,9 +9,18 @@
 npm install
 ```
 
+## Compile
+
+```js
+npm run compile
+```
+
 ## Usage
 
-```
+Start the development server with:
+
+```js
+npm start
 ```
 
 ## Contribute
