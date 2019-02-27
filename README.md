@@ -5,7 +5,8 @@
 
 ## Install
 
-```
+```js
+npm install
 ```
 
 ## Usage
